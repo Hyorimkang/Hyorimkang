@@ -1,5 +1,5 @@
 <h2>Language</h2> 
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=000000"/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=000000"/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=000000"/>
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=000000"/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=000000"/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=000000"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=000000"/>
 <h2>Profile</h2>
 <a href="https://www.instagram.com/hyooooo03/"><img src="https://img.shields.io/badge/instagram-ff69b4?style=flat-square&logo=instagram&logoColor=000000"/>
  
