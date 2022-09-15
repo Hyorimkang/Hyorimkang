@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=${twinkling}&color=auto&height=${500}&section=header&text=${Welcome}&fontSize=${60}&animation=${waving})
+![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${500}&section=header&text=${Welcome}&fontSize=${60}&animation=${twinkling})
 
 
 <h2>Language</h2> 
