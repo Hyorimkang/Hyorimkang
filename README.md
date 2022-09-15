@@ -1,10 +1,7 @@
 
 
 <h2 align="center">📝 Language 📝</h2> 
-<p align="center"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=111111"/>
-<p align="center"><img src="https://img.shields.io/badge/C-8669AE?style=flat-square&logo=C&logoColor=000000"/>
-<p align="center"><img src="https://img.shields.io/badge/HTML-41BDF5?style=flat-square&logo=HTML5&logoColor=000000"/>
-<p align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=000000"/>
+<p align="center"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=111111"/> <p align="center"><img src="https://img.shields.io/badge/C-8669AE?style=flat-square&logo=C&logoColor=000000"/> <p align="center"><img src="https://img.shields.io/badge/HTML-41BDF5?style=flat-square&logo=HTML5&logoColor=000000"/> <p align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=000000"/>
 <h2 align="center">💟 Profile 💟</h2>
 <p align="center"><a href="https://www.instagram.com/hyooooo03/"><img src="https://img.shields.io/badge/instagram-ff69b4?style=flat-square&logo=instagram&logoColor=000000"/>
  
