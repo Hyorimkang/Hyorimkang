@@ -7,6 +7,6 @@
 <h2 align="center">💻 Tool 💻</h2> 
 <div align="center"><img src="https://img.shields.io/badge/Eclipse-5881D8?style=flat-square&logo=Eclipse&logoColor=000000"/>   <img src="https://img.shields.io/badge/Visual Studio-007ACC?style=flat-square&logo=Visual Studio&logoColor=000000"/>   <img src="https://img.shields.io/badge/Visual Studio Code-7360F2?style=flat-square&logo=Visual Studio Code&logoColor=000000"/>     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=FFFFFF"/></div>
 <h2></h2>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyorimKang&layout=compact"><br><br>              [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyorimkang)](https://github.com/Hyorimkang/github-readme-stats)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyorimKang&layout=compact">
 
  
